@@ -5,3 +5,4 @@
 - Ethan Ma
 - Ananya Kharche
 - Nicolas Ayala
+- Jake Warsaw
